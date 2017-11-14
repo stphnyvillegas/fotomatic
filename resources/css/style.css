@@ -129,6 +129,7 @@ header .mobile {
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
+  margin-left: 150px;
 }
 
 #sign-up-cta .content {
